@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>RSS_InBuidingV1</name>
+	<Icon>
+		<href>RSS_InBuidingV1_1.gif</href>
+	</Icon>
+	<LatLonBox>
+		<north>-6.098234</north>
+		<south>-6.338769</south>
+		<east>39.288343</east>
+		<west>39.017918</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
